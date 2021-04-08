@@ -4,7 +4,7 @@ using System.Text;
 using System.Windows.Controls;
 using System.Windows.Input;
 
-namespace CommandSourceControlWithDispatcherTimer.State_Pattern
+namespace StatePattern.State
 {
     public interface IState
     {
