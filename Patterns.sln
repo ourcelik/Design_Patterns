@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite_Iterator", "Composite_Iterator\Composite_Iterator.csproj", "{3DE953A8-466D-47D1-83F4-D8FD62C352CA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{D5F2D7E3-0816-4ED1-842B-3FA30F552840}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorySingletonPattern", "FactoryPattern\FactorySingletonPattern.csproj", "{D5F2D7E3-0816-4ED1-842B-3FA30F552840}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{C5CF009F-7030-4FF8-B23D-B2034E246CE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{C5CF009F-7030-4FF8-B23D-B2034E246CE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
